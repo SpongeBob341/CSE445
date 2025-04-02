@@ -53,6 +53,7 @@
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
+      </Address>
     <!-- Closing Address tag is missing -->
   </Hotel>
   
