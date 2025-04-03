@@ -6,7 +6,7 @@
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>11</Number>
       <Street>E 7th St</Street>
       <City>Tempe</City>
@@ -19,7 +19,7 @@
   <Hotel Rating="4.8">
     <Name>The Ritz-Carlton</Name>
     <Phone>480-941-8200</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>2401</Number>
       <Street>E Camelback Rd</Street>
       <City>Phoenix</City>
@@ -32,7 +32,7 @@
   <Hotel>
     <Name>Hyatt Regency</Name>
     <Phone>602-252-1234</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>122</Number>
       <Street>N 2nd St</Street>
       <City>Phoenix</City>
@@ -46,7 +46,7 @@
     <Name>Courtyard by Marriott</Name>
     <Phone>480-966-4300</Phone>
     <Phone>888-236-2427</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>601</Number>
       <Street>S Ash Ave</Street>
       <City>Tempe</City>
@@ -59,7 +59,7 @@
   <Hotel Rating="4.5">
     <Name>Four Seasons Resort Scottsdale</Name>
     <Phone>480-515-5700</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>10600</Number>
       <Street>E Crescent Moon Dr</Street>
       <City>Scottsdale</City>
@@ -72,7 +72,7 @@
   <Hotel>
     <Name>Hampton Inn &amp; Suites</Name>
     <Phone>480-675-9799</Phone>
-    <Address NearestAirport="Phoenix-Mesa Gateway">
+    <Address NearstAirport="Phoenix-Mesa Gateway">
       <Number>1563</Number>
       <Street>S Gilbert Rd</Street>
       <City>Mesa</City>
@@ -85,7 +85,7 @@
   <Hotel Rating="4.1">
     <Name>Hilton Phoenix Resort</Name>
     <Phone>602-997-2626</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>7677</Number>
       <Street>N 16th St</Street>
       <City>Phoenix</City>
@@ -99,7 +99,7 @@
     <Name>DoubleTree by Hilton</Name>
     <Phone>480-967-1441</Phone>
     <Phone>800-528-6481</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>2100</Number>
       <Street>S Priest Dr</Street>
       <City>Tempe</City>
@@ -112,7 +112,7 @@
   <Hotel>
     <Name>La Quinta Inn by Wyndham</Name>
     <Phone>480-736-3600</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>6530</Number>
       <Street>E Superstition Springs Blvd</Street>
       <City>Mesa</City>
@@ -126,7 +126,7 @@
     <Name>JW Marriott Phoenix Desert Ridge</Name>
     <Phone>480-293-5000</Phone>
     <Phone>800-835-6206</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>5350</Number>
       <Street>E Marriott Dr</Street>
       <City>Phoenix</City>
@@ -139,7 +139,7 @@
   <Hotel Rating="4.3">
     <Name>Tempe Mission Palms</Name>
     <Phone>480-894-1400</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>60</Number>
       <Street>E 5th St</Street>
       <City>Tempe</City>
