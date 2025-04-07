@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Error 1: The root element name is Hotel, instead of Hotels -->
-<Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Hotels.xsd">
+<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Hotels.xsd">
   
   <!-- First hotel (normal) -->
   <Hotel Rating="4.2">
@@ -57,4 +57,4 @@
     </Address>
   </Hotel>
   
-</Hotel>
+</Hotels>
