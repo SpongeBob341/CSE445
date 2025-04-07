@@ -43,7 +43,7 @@
   </Hotel>
   
   <!-- Error 4: An Address element has no closing tag -->
-  <Hotel Rating="3.9">
+ <!-- <Hotel Rating="3.9">
     <Name>Courtyard by Marriott</Name>
     <Phone>480-966-4300</Phone>
     <Phone>888-236-2427</Phone>
@@ -54,7 +54,7 @@
       <State>AZ</State>
       <Zip>85281</Zip>
     <!-- Closing Address tag is missing -->
-  </Hotel>
+   <!--</Hotel> 
   
   <!-- Error 5: Two names are provided for one of the hotels -->
   <Hotel Rating="4.5">
