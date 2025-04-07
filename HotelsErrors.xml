@@ -7,7 +7,7 @@
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>11</Number>
       <Street>E 7th St</Street>
       <City>Tempe</City>
@@ -33,7 +33,7 @@
   <Hotel>
     <Name>Hyatt Regency</Name>
     <!-- Phone element is missing -->
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>122</Number>
       <Street>N 2nd St</Street>
       <City>Phoenix</City>
@@ -48,7 +48,7 @@
     <Name>Four Seasons Resort Scottsdale</Name>
     <Name>Second Name Should Not Be Here</Name>
     <Phone>480-515-5700</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>10600</Number>
       <Street>E Crescent Moon Dr</Street>
       <City>Scottsdale</City>
