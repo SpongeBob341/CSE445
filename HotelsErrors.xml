@@ -42,22 +42,7 @@
     </Address>
   </Hotel>
 
-    <!-- Error 4: An Address element has no closing tag -->
-  <Hotel Rating="3.9">
-    <Name>Courtyard by Marriott</Name>
-    <Phone>480-966-4300</Phone>
-    <Phone>888-236-2427</Phone>
-    <Address NearstAirport="Sky Harbor">
-      <Number>601</Number>
-      <Street>S Ash Ave</Street>
-      <City>Tempe</City>
-      <State>AZ</State>
-      <Zip>85281</Zip>
-    <!-- Closing Address tag is missing -->
-  </Hotel>
-  
-  
-  <!-- Error 5: Two names are provided for one of the hotels -->
+    <!-- Error 4: Two names are provided for one of the hotels -->
   <Hotel Rating="4.5">
     <Name>Four Seasons Resort Scottsdale</Name>
     <Name>Second Name Should Not Be Here</Name>
@@ -69,6 +54,20 @@
       <State>AZ</State>
       <Zip>85262</Zip>
     </Address>
+  </Hotel>
+
+    <!-- Error 5: An Address element has no closing tag -->
+  <Hotel Rating="3.9">
+    <Name>Courtyard by Marriott</Name>
+    <Phone>480-966-4300</Phone>
+    <Phone>888-236-2427</Phone>
+    <Address NearstAirport="Sky Harbor">
+      <Number>601</Number>
+      <Street>S Ash Ave</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    <!-- Closing Address tag is missing -->
   </Hotel>
   
 </Hotels>
